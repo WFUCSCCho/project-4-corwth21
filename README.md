@@ -81,23 +81,26 @@ each case. Take a screenshot of your graph and put them here by modifying this f
 it to this repository.
 
 Insertion, search, and deletion running time (already sorted):
-
-![Firefly picture of a cat 86147](https://github.com/user-attachments/assets/8b2d008e-3011-4979-97b8-fa2e9886a01a)
-
-
 Insertion, search, and deletion running time (shuffled):
-
 Insertion, search, and deletion running time (reversed):
+
+<img width="604" alt="Screenshot 2024-12-04 at 7 27 50 PM" src="https://github.com/user-attachments/assets/146aa91e-f891-4e8f-8b43-636bc3c9ab7d">
+<img width="605" alt="Screenshot 2024-12-04 at 7 28 02 PM" src="https://github.com/user-attachments/assets/3064f35b-637a-47da-856a-f5f1f4072d4a">
+<img width="606" alt="Screenshot 2024-12-04 at 7 28 12 PM" src="https://github.com/user-attachments/assets/352b7647-358c-4651-9300-654c36e56674">
+
+
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
 how it compares to the theoretical performance of the hash table operations.
 
-Dataset Source: // FINISH ME
+Dataset Source: https://www.kaggle.com/code/ulrikthygepedersen/nfl-combine-2018-getting-started
 
-Dataset Modifications ("None" if unchanged): // FINISH ME
+Dataset Modifications: None
 
-Result Analysis: // FINISH ME
+Result Analysis: The results of the runtime analysis make sense given the characteristics of hash map tables. The shuffled and reversed 
+datasets had similar runtimes because their value distribution mitigates possible collisions and long chains. The sorted array resulting in
+muhc larger runtimes makes sense as hash maps can degrade to o(n) runtimes when values are clustered too close together.
 
 ## Submission:
 
