@@ -1,0 +1,252 @@
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 143938
+Search runtime (ns): 55910
+Delete runtime (ns): 97085
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 105319
+Search runtime (ns): 29389
+Delete runtime (ns): 44932
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 66492
+Search runtime (ns): 18087
+Delete runtime (ns): 28908
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 266809
+Search runtime (ns): 68184
+Delete runtime (ns): 102070
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 111206
+Search runtime (ns): 44243
+Delete runtime (ns): 70075
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 104600
+Search runtime (ns): 15264
+Delete runtime (ns): 31803
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 352007
+Search runtime (ns): 65988
+Delete runtime (ns): 101248
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 91921
+Search runtime (ns): 37745
+Delete runtime (ns): 50252
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 93640
+Search runtime (ns): 19070
+Delete runtime (ns): 29403
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 162575
+Search runtime (ns): 56516
+Delete runtime (ns): 73334
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 65559
+Search runtime (ns): 29385
+Delete runtime (ns): 51746
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 57525
+Search runtime (ns): 15181
+Delete runtime (ns): 30069
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 183746
+Search runtime (ns): 56334
+Delete runtime (ns): 73547
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 139186
+Search runtime (ns): 53325
+Delete runtime (ns): 71287
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 111919
+Search runtime (ns): 32100
+Delete runtime (ns): 58895
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 228365
+Search runtime (ns): 78341
+Delete runtime (ns): 112273
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 104738
+Search runtime (ns): 41641
+Delete runtime (ns): 61271
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 105763
+Search runtime (ns): 29637
+Delete runtime (ns): 53273
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 160811
+Search runtime (ns): 104014
+Delete runtime (ns): 118235
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 114537
+Search runtime (ns): 32273
+Delete runtime (ns): 51941
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 107657
+Search runtime (ns): 25702
+Delete runtime (ns): 51541
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 163642
+Search runtime (ns): 86618
+Delete runtime (ns): 134668
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 76973
+Search runtime (ns): 31169
+Delete runtime (ns): 47678
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 113318
+Search runtime (ns): 30217
+Delete runtime (ns): 31654
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 266790
+Search runtime (ns): 91391
+Delete runtime (ns): 144595
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 121267
+Search runtime (ns): 43591
+Delete runtime (ns): 63949
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 121736
+Search runtime (ns): 28473
+Delete runtime (ns): 47963
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 100 lines:
+Insert runtime (ns): 277668
+Search runtime (ns): 90561
+Delete runtime (ns): 122095
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 100 lines:
+Insert runtime (ns): 77541
+Search runtime (ns): 29953
+Delete runtime (ns): 48933
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 100 lines:
+Insert runtime (ns): 115004
+Search runtime (ns): 14851
+Delete runtime (ns): 29006
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 1000 lines:
+Insert runtime (ns): 3746406
+Search runtime (ns): 519588
+Delete runtime (ns): 524226
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 1000 lines:
+Insert runtime (ns): 1136668
+Search runtime (ns): 265921
+Delete runtime (ns): 194511
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 1000 lines:
+Insert runtime (ns): 1231762
+Search runtime (ns): 139153
+Delete runtime (ns): 120084
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 10 lines:
+Insert runtime (ns): 66622
+Search runtime (ns): 6751
+Delete runtime (ns): 11278
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 10 lines:
+Insert runtime (ns): 13670
+Search runtime (ns): 8026
+Delete runtime (ns): 8622
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 10 lines:
+Insert runtime (ns): 13469
+Search runtime (ns): 5167
+Delete runtime (ns): 7981
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 2500 lines:
+Insert runtime (ns): 7422146
+Search runtime (ns): 1088509
+Delete runtime (ns): 1472418
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 2500 lines:
+Insert runtime (ns): 3846278
+Search runtime (ns): 908730
+Delete runtime (ns): 855593
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 2500 lines:
+Insert runtime (ns): 2967762
+Search runtime (ns): 739134
+Delete runtime (ns): 979716
+-------------------------------------------------------
+-------------------------------------------------------
+SORTED ARRAY results for 2500 lines:
+Insert runtime (ns): 4271232
+Search runtime (ns): 550915
+Delete runtime (ns): 1005742
+-------------------------------------------------------
+-------------------------------------------------------
+SHUFFLED ARRAY results for 2500 lines:
+Insert runtime (ns): 2001948
+Search runtime (ns): 336775
+Delete runtime (ns): 329224
+-------------------------------------------------------
+-------------------------------------------------------
+REVERSED ARRAY results for 2500 lines:
+Insert runtime (ns): 2103788
+Search runtime (ns): 357712
+Delete runtime (ns): 493167
+-------------------------------------------------------
